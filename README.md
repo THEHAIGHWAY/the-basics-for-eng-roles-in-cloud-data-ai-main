@@ -11,7 +11,7 @@
 
 # About THE HAIGHWAY
 
-Welcome !!! Here is a quick presentation of **THE HAIGHWAY**.
+Welcome !!! Here is a quick presentation of **THE HAIGHWAY**. Feel free to skip to the [next section](#introduction) if you already know about us.
 
 **THE HAIGHWAY** is a training company in **AI, Data and Cloud**. Our mission is to help you upskill as you were on the job. We offer free and paid learning ressources in **English** & **French**.
 
