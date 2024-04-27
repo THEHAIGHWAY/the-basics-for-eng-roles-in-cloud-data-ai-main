@@ -1,7 +1,7 @@
 <div align="center">
-  <h1>🗣️ The Basics for Engineering Roles in Cloud, Data & AI</h1>
+  <h1>🗣️ The Basics for Engineering Roles in AI, Data & Cloud</h1>
   <p align="center">
-    🤗 Follow <a href="https://www.linkedin.com/in/emmanuel-kuidjo">Emmanuel KUIDJO</a> • 
+    🤗 Follow <a href="https://www.linkedin.com/in/emmanuel-kuidjo">Me</a> • 
     💻 <a href="https://www.linkedin.com/company/the-haighway">THE HAIGHWAY</a> • 
   </p>
 </div>
@@ -11,11 +11,9 @@
 
 # About THE HAIGHWAY
 
-Welcome !!! Here is a quick presentation of **THE HAIGHWAY**. Feel free to skip to the [next section](#introduction) if you already know about us.
+Welcome !!! 
 
-**THE HAIGHWAY** is a training company in **AI, Data and Cloud**. Our mission is to help you upskill as you were on the job. We offer free and paid learning ressources in **English** & **French**.
-
-For more about our resources, read [here](https://github.com/THEHAIGHWAY/.github.git).
+For a quick presentation of **THE HAIGHWAY**, read [here](https://github.com/THEHAIGHWAY/.github.git).
 
 ---
 
@@ -41,13 +39,15 @@ This repo is stil a **Work In Progress**. But you can already enjoy it.
 ## SQL: beginner to intermediate
 
 
-## Python: beginner to intermediate
+## Python
+
+### Python: beginner to intermediate
 
 
-## Python: write production-ready code & tests
+### Python: write production-ready code & tests
 
 
-## Python: virtual environments, dependencies management and code packaging
+### Python: virtual environments, dependencies management and code packaging
 
 
 ## Basics software development best practices for non developers
@@ -62,13 +62,13 @@ This repo is stil a **Work In Progress**. But you can already enjoy it.
 ## Introduction to Cloud Computing
 
 
-## Introduction to AWS Cloud
+### Introduction to AWS Cloud
 
 
-## Introduction to Azure Cloud
+### Introduction to Azure Cloud
 
 
-## Introduction to GCP Cloud
+### Introduction to GCP Cloud
 
 
 ## Infrastructure as Code with Terraform: beginner to intermediate
